@@ -10,6 +10,7 @@ html, body{
    font-family: 'Courgette',serif;
    /* overflow: auto; */
    margin: 0;
+   overflow: scroll;
 }
 
   
