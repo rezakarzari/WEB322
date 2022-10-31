@@ -223,6 +223,8 @@ a {
 }
 .card-body .btn{
   border-color: #629d72;
+  color: #629d72;
+  
 }
 .card-body .btn:hover{
   background-color: #629d72;
