@@ -231,3 +231,8 @@ a {
   background-color: #629d72;
   color: white;
 }
+.card-body .btn:active{
+  background-color: #ad5270;
+  color: white;
+  border-color: #ad5270;
+}
