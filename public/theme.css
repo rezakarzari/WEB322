@@ -75,7 +75,7 @@ html, body{
   .table th {
     padding-top: 12px;
     padding-bottom: 12px;
-    text-align: left;
+    text-align: center;
     background-color: #ad5270;
     color: white;
   }
@@ -94,6 +94,7 @@ html, body{
     position: absolute;
     left: 0;
     bottom: 0;
+    font-family: 'Dosis',serif;
   }
   
   .footer-distributed .footer-left p {
