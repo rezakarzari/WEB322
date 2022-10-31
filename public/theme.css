@@ -67,9 +67,9 @@ html, body{
     text-align: left;
     font: normal 16px Courgette;
     padding: 45px 50px;
-    /* position: fixed;
+    position: absolute;
     left: 0;
-    bottom: 0; */
+    bottom: 0;
   }
   
   .footer-distributed .footer-left p {
