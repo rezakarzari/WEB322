@@ -60,7 +60,7 @@ html, body{
   
   .footer-distributed {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    background-color: #629d72;
+    background-color: #5e89a1;
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
     box-sizing: border-box;
     width: 100%;
@@ -166,7 +166,7 @@ html, body{
                                 	}
                                 	.card {
     border-radius: 7px !important;
-    border-color: #629d72;
+    border-color: #5e89a1;
 }
 
 .mb-30 {
@@ -232,7 +232,7 @@ a {
   
 }
 .card-body .btn:hover{
-  background-color: #629d72;
+  background-color: #5e89a1;
   color: white;
 }
 .card-body .btn:active{
